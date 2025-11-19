@@ -1,4 +1,4 @@
-emp_name=Remallya
+emp_name="Remallya"
 emp_age=35
 emp_salary=100000
 experience=3
